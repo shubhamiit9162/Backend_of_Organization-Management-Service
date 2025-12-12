@@ -138,3 +138,7 @@ Open your browser and navigate to:
 Swagger UI: http://127.0.0.1:8000/docs
 
 ReDoc: http://127.0.0.1:8000/redoc
+
+.....Backend Deployed link:.....
+
+https://backend-of-organization-management-xntm.onrender.com
