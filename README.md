@@ -142,3 +142,15 @@ ReDoc: http://127.0.0.1:8000/redoc
 .....Backend Deployed link:.....
 
 https://backend-of-organization-management-xntm.onrender.com
+
+![Multi-Tenant Architecture](docs/images/Untitled.png)
+![Multi-Tenant Architecture](docs/images/4.png)
+![Multi-Tenant Architecture](docs/images/1.png)
+![Multi-Tenant Architecture](docs/images/3.png)
+
+
+
+
+
+
+
